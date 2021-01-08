@@ -43,4 +43,46 @@
              </h3>
              <h3>Всё остальное в таблице доступно по номеру:911</h3>
              <h4>Основано на игре гта 5 и гта онлайн</h4>
-             </html>        
+              body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+    
+}
+
+a {
+    color: black;
+    font-size: 30px;
+}
+
+p, img {
+    border: 3px solid peru;
+}
+
+p, table {
+    font-size: 20px;
+}
+
+table{
+    background-color:  lightblue;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td{
+    border: 2px solid darkblue;
+}
+h3{
+    background-color: red;
+}
+h4{
+    background-color: lightblue;
+}
+             </html>           
